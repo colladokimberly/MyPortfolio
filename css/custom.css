@@ -76,6 +76,10 @@ a.btn.btn-outline-dark:hover{
 	color: #ffffff;
 }
 
+a.nav-link {
+	text-align: center;
+}
+
 input#firstName.form-control{
 	border-color: #000000;
 }
