@@ -1,6 +1,6 @@
 header{
 	background: no-repeat center center;
-	background-size: cover;
+	background-size: contain;
 	color: white;
 }
 
@@ -11,6 +11,7 @@ a.nav-link.active {
 
 .color-overlay{
 	min-height: 100vh;
+	min-width: auto;
 }
 
 .singleCol{
